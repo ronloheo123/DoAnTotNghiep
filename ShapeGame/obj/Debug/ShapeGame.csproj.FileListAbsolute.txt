@@ -1,0 +1,161 @@
+C:\Users\sandy\Documents\C#\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\sandy\Documents\C#\ShapeGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sandy\Documents\C#\ShapeGame\obj\Debug\App.g.cs
+C:\Users\sandy\Documents\C#\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\sandy\Documents\C#\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\sandy\Documents\C#\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\sandy\Documents\C#\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\sandy\Documents\C#\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\sandy\Documents\C#\ShapeGame\obj\Debug\MainWindow.baml
+C:\Users\sandy\Documents\C#\ShapeGame\obj\Debug\MainWindow.g.cs
+C:\Users\sandy\Documents\C#\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\sandy\Documents\C#\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\sandy\Documents\C#\ShapeGame\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\sandy\Documents\C#\ShapeGame\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\sandy\Documents\C#\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\sandy\Documents\C#\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\sandy\Documents\C#\ShapeGame\bin\Debug\KinectSkeleton3D.exe.config
+C:\Users\sandy\Documents\C#\ShapeGame\bin\Debug\Kinect3D.exe.config
+C:\Users\sandy\Documents\C#\ShapeGame_2\bin\Debug\ShapeGame.exe.config
+C:\Users\sandy\Documents\C#\ShapeGame_2\obj\Debug\ShapeGame.exe
+C:\Users\sandy\Documents\C#\ShapeGame_2\obj\Debug\ShapeGame.pdb
+C:\Users\sandy\Documents\C#\ShapeGame_2\bin\Debug\ShapeGame.exe
+C:\Users\sandy\Documents\C#\ShapeGame_2\bin\Debug\ShapeGame.pdb
+C:\Users\sandy\Documents\C#\ShapeGame_2\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\sandy\Documents\C#\ShapeGame_2\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\sandy\Documents\C#\ShapeGame_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sandy\Documents\C#\ShapeGame_2\obj\Debug\MainWindow.baml
+C:\Users\sandy\Documents\C#\ShapeGame_2\obj\Debug\MainWindow.g.cs
+C:\Users\sandy\Documents\C#\ShapeGame_2\obj\Debug\App.g.cs
+C:\Users\sandy\Documents\C#\ShapeGame_2\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\sandy\Documents\C#\ShapeGame_2\obj\Debug\ShapeGame.g.resources
+C:\Users\sandy\Documents\C#\ShapeGame_2\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\sandy\Documents\C#\ShapeGame_2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\sandy\Documents\C#\ShapeGame_2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\bin\Debug\ShapeGame.exe.config
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\obj\Debug\ShapeGame.exe
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\obj\Debug\ShapeGame.pdb
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\bin\Debug\ShapeGame.exe
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\bin\Debug\ShapeGame.pdb
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\obj\Debug\MainWindow.baml
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\obj\Debug\MainWindow.g.cs
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\obj\Debug\App.g.cs
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\obj\Debug\ShapeGame.g.resources
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\sandy\Documents\C#\ShapeGame_2_2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\obj\Debug\MainWindow.baml
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\obj\Debug\MainWindow.g.cs
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\obj\Debug\App.g.cs
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\sandy\Documents\Kinect3D\ShapeGame\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.csproj.AssemblyReference.cache
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\MainWindow.baml
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\MainWindow.g.cs
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\App.g.cs
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\NghiaLe\Downloads\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.pdb
+E:\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.csproj.AssemblyReference.cache
+E:\Kinect3D-master\ShapeGame\obj\Debug\MainWindow.baml
+E:\Kinect3D-master\ShapeGame\obj\Debug\MainWindow.g.cs
+E:\Kinect3D-master\ShapeGame\obj\Debug\App.g.cs
+E:\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+E:\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.g.resources
+E:\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+E:\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+E:\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+E:\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.exe
+E:\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.pdb
+E:\Kinect3D-master\ShapeGame\bin\Debug\ShapeGame.exe.config
+E:\Kinect3D-master\ShapeGame\bin\Debug\ShapeGame.exe
+E:\Kinect3D-master\ShapeGame\bin\Debug\ShapeGame.pdb
+E:\Kinect3D-master\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+E:\Kinect3D-master\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+E:\Kinect3D-master\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+E:\Kinect3D-master\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+E:\Kinect3D-master\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\bin\Debug\ShapeGame.exe.config
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\bin\Debug\ShapeGame.exe
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\bin\Debug\ShapeGame.pdb
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\ShapeGame.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\MainWindow.baml
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\MainWindow.g.cs
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\App.g.cs
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\ShapeGame.g.resources
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\ShapeGame.csproj.Up2Date
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\ShapeGame.exe
+D:\DoAnTotNghiep\Kinect3D-master (1)\ShapeGame\obj\Debug\ShapeGame.pdb
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\bin\Debug\ShapeGame.exe.config
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\bin\Debug\ShapeGame.exe
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\bin\Debug\ShapeGame.pdb
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\ShapeGame.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\MainWindow.baml
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\MainWindow.g.cs
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\App.g.cs
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\ShapeGame.g.resources
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\ShapeGame.csproj.Up2Date
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\ShapeGame.exe
+D:\DoAnTotNghiep\Backup phien ban tot 1\ShapeGame\obj\Debug\ShapeGame.pdb
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\bin\Debug\ShapeGame.exe.config
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\bin\Debug\ShapeGame.exe
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\bin\Debug\ShapeGame.pdb
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\ShapeGame.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\MainWindow.baml
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\MainWindow.g.cs
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\App.g.cs
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\ShapeGame.g.resources
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\ShapeGame.csproj.Up2Date
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\ShapeGame.exe
+D:\DoAnTotNghiep\Gia toc bàn tay được rồi\ShapeGame\obj\Debug\ShapeGame.pdb

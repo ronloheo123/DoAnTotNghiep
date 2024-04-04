@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E61846BF-FE80-4B50-A7FF-CFCD9E4A4815}|ShapeGame.csproj|d:\\doantotnghiep\\gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\shapegame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61846BF-FE80-4B50-A7FF-CFCD9E4A4815}|ShapeGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61846BF-FE80-4B50-A7FF-CFCD9E4A4815}|ShapeGame.csproj|D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61846BF-FE80-4B50-A7FF-CFCD9E4A4815}|ShapeGame.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61846BF-FE80-4B50-A7FF-CFCD9E4A4815}|ShapeGame.csproj|D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61846BF-FE80-4B50-A7FF-CFCD9E4A4815}|ShapeGame.csproj|solutionrelative:cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61846BF-FE80-4B50-A7FF-CFCD9E4A4815}|ShapeGame.csproj|D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E61846BF-FE80-4B50-A7FF-CFCD9E4A4815}|ShapeGame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T08:43:58.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAPMBAAAAAAAAAAArwAICAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:43:58.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAewIUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:43:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\Cube.cs",
+              "RelativeDocumentMoniker": "Cube.cs",
+              "ToolTip": "D:\\DoAnTotNghiep\\Gia toc b\u00E0n tay \u0111\u01B0\u1EE3c r\u1ED3i\\ShapeGame\\Cube.cs",
+              "RelativeToolTip": "Cube.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:43:59.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
