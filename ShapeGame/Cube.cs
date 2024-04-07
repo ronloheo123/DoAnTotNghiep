@@ -10,7 +10,7 @@ namespace ShapeGame
     {
         private Model3DGroup cube;
         private ModelVisual3D model;
-        private DirectionalLight myDirectionalLight;
+        public DirectionalLight myDirectionalLight;
         private float obesity;
         private RotateTransform3D rotation;
         private Transform3DGroup trans;
