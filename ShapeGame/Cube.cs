@@ -18,9 +18,9 @@ namespace ShapeGame
         private TranslateTransform3D translation;
         private AxisAngleRotation3D axis;
         private Vector3D up;
-
+         
         #region Constructor
-
+        
         public Cube(Viewport3D myViewport3D, float obesity)
         {
 
@@ -76,11 +76,18 @@ namespace ShapeGame
 
             this.cube.Transform = trans;
         }
+        public void SetDirectionalLightColor(Color color)
+        {
+            
+            this.myDirectionalLight.Color = color;
+           
+        }
 
         public void update(Point3D pt1)
         {
 
         }
+
 
         public void update(Microsoft.Kinect.SkeletonPoint pt1, Microsoft.Kinect.SkeletonPoint pt2)
         {            
