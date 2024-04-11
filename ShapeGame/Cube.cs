@@ -78,9 +78,9 @@ namespace ShapeGame
         }
         public void SetDirectionalLightColor(Color color)
         {
-            
+          
             this.myDirectionalLight.Color = color;
-           
+            this.cube.Children.Add(myDirectionalLight);
         }
 
         public void update(Point3D pt1)
